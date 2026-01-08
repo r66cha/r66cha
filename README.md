@@ -1,5 +1,3 @@
-## Hello 👋
-
 <!--
 **r66cha/r66cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) is present in your GitHub profile.
 
@@ -15,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Interesting fact:...
 -->
 
-## About me
+## Ruslan Chukavin / r66cha
 
 ![Me](./public/2888317.jpg)
 
-**Full cycle developer** Web2/Web3\*\*.
+**Full cycle developer** Web2/Web3.
 
-My name is Ruslan Chukavin.
 I am a full-service Web2/Web3 developer specializing in server architecture, mobile applications and protocol development.
 
 I develop **open source projects**:
