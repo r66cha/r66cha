@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![Me](./public/2888317.jpg)
 
-**Full cycle developer** Web2/Web3.
+**Web2/Web3 developer** .
 
-I am a full-service Web2/Web3 developer specializing in server architecture, mobile applications and protocol development.
+I am a developer who studies and applies a wide range of technologies - from server architecture and mobile applications to blockchain protocols and distributed systems.
 
 I develop **open source projects**:
 
@@ -29,10 +29,26 @@ I develop **open source projects**:
 
 ## 🛠 Tech stack
 
-**Languages:** Python, Swift, Solidity, JavaScript/TypeScript.
+**Languages**
+Python · Swift · Solidity · JavaScript / TypeScript
 
-**Backend and infrastructure:** FastAPI, Aiogram, SQL, Alembic, Redis, Celery, RabbitMQ, Docker, Git, CI/CD, Uvicorn, Gunicorn, Nginx.
+**Backend & Infra**
+FastAPI · Aiogram · REST · SQL · Alembic · Redis ·  
+Celery · RabbitMQ · Background workers · Async I/O ·  
+Docker · Git · CI/CD · Uvicorn · Gunicorn · Nginx
 
-**Web3:** Solidity, Hardhat, Foundry
+**Databases**
+PostgreSQL · Relational databases · Data modeling · Migrations
 
-**Product:** UI/UX, Figma
+**Web3 & Protocols**
+Solidity · Smart contract development ·  
+Hardhat · Foundry · EVM · Protocol design · Cryptographic primitives
+
+**Mobile**
+iOS · Swift · Native mobile development · Bluetooth / P2P networking
+
+**Observability & Reliability**
+Logging · Metrics · Promtail · Loki · Grafana · Monitoring · Alerting
+
+**Product:**
+UI/UX · Figma · Product thinking
