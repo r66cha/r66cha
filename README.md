@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Ruslan Chukavin / r66cha
 
-![Me](./public/2888317.jpg)
+![Me](./public/grRepoAva.jpg)
 
 **Web2/Web3 developer** .
 
