@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Interesting fact:...
 -->
 
-**Hello!** .
+**Hello!**
 
 I am a developer who studies and applies a wide range of technologies - from server architecture and mobile applications to blockchain protocols and distributed systems.
