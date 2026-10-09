@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Interesting fact:...
 -->
 
-**Hello!**
-
-I am a developer who studies and applies a wide range of technologies - from server architecture and mobile applications to blockchain protocols and distributed systems.
+Hi, I’m a developer and the creator of Shum, an end-to-end encrypted messenger that works over the internet and Bluetooth without a phone number.
